@@ -2,6 +2,18 @@
 
 > **NOTICE:** This is not a philosophy for casual debate. It is a schematic for a dangerous mental cognitive technology. This manual is provided without warranty. Use at your own risk.
 
+## License
+
+**Dual-License:**
+- **Primary:** Fractal Codex License Addendum (FCL) v1.0  
+- **Fallback:** Creative Commons Attribution-ShareAlike 4.0 (CC-BY-SA 4.0)
+
+See [LICENSE](LICENSE) for full terms.
+
+**TL;DR:** Use freely for personal practice. Commercial coaching/therapy allowed 
+with attribution. No proprietary derivatives. Share improvements. 
+Operate in good faith.
+
 ---
 
 ## 1. The Diagnosis: The Swamp of the Floodlight
