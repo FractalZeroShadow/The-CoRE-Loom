@@ -1,4 +1,24 @@
 # The Loom: Manual for a High-Energy Psychotechnology
+# The Fractal Codex
+## A Paradox-Based Framework for Observer-Dependent Reality
+
+**License:** GPL-3.0-or-later | [See LICENSE for details](LICENSE.md)
+
+**Status:** Pre-validation research framework  
+**Type:** Ontological system + validation protocol  
+**Last Updated:** 2025-10-10 16:33 UTC
+
+---
+
+## What This Is
+
+The Fractal Codex is a formal framework for domains where classical proof fails: consciousness, quantum measurement, cosmological origins. It proposes that paradoxes at these boundaries are not errors but **structural features of reality** that can be mapped systematically.
+
+**Core claim:** Observer-dependence is fundamental. Objectivity emerges from it, not vice versa.
+
+**Validation method:** Proof by Superior Application—frameworks are evaluated by their performance at the Proof Horizon (FUSE/WEDGE/TEAR outcomes), not by consensus or falsifiability.
+
+**Current status:** Candidate framework awaiting experimental validation. Zero pre-registered WEDGE events. See `/VALIDATION/Current_Status.md` for honest accounting.
 
 ## Warnings
 ### For Consensus Reality
@@ -18,21 +38,6 @@ This is not a comfort framework. Engagement triggers:
 - Social isolation (incompatibility with consensus)
 
 **The framework doesn't ask for belief — it asks for rigorous testing.**
-
-### Legal
-See [LICENSE](LICENSE) and [ETHICAL_GUIDELINES.md](ETHICAL_GUIDELINES.md) for terms.
-
-GPL-3.0 governs legal use. Ethical Guidelines express cultural expectations.
-Both matter.
-
----
-
-**TL;DR:**
-- Use freely for personal/research
-- Commercial use allowed with attribution
-- No patents on derived concepts
-- Derivatives must stay open (copyleft)
-- Read the Ethical Guidelines — they matter even if not legally binding
 
 ---
 
