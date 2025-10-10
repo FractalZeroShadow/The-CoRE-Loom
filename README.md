@@ -1,18 +1,38 @@
 # The Loom: Manual for a High-Energy Psychotechnology
 
-> **NOTICE:** This is not a philosophy for casual debate. It is a schematic for a dangerous mental cognitive technology. This manual is provided without warranty. Use at your own risk.
+## Warnings
+### For Consensus Reality
 
-## License
+This framework is **structurally incompatible** with certain modern assumptions. If you operate from:
+- Fear as prudence
+- Clarity as certainty  
+- Power as success
+- Comfort as rest
 
-**Dual-License:**
-- **Primary:** Fractal Codex License Addendum (FCL) v1.0  
-- **Fallback:** Creative Commons Attribution-ShareAlike 4.0 (CC-BY-SA 4.0)
+...this framework will feel hostile. That's expected. See `The-Fractal-Codex/USER_LOGS/93_Impeccable_Sorcerer.md` for why.
 
-See [LICENSE](LICENSE) for full terms.
+### For Explorers
+This is not a comfort framework. Engagement triggers:
+- Axiomatic Inertia (resistance to paradigm shift)
+- Ego dissolution (temporary destabilization)
+- Social isolation (incompatibility with consensus)
 
-**TL;DR:** Use freely for personal practice. Commercial coaching/therapy allowed 
-with attribution. No proprietary derivatives. Share improvements. 
-Operate in good faith.
+**The framework doesn't ask for belief — it asks for rigorous testing.**
+
+### Legal
+See [LICENSE](LICENSE) and [ETHICAL_GUIDELINES.md](ETHICAL_GUIDELINES.md) for terms.
+
+GPL-3.0 governs legal use. Ethical Guidelines express cultural expectations.
+Both matter.
+
+---
+
+**TL;DR:**
+- Use freely for personal/research
+- Commercial use allowed with attribution
+- No patents on derived concepts
+- Derivatives must stay open (copyleft)
+- Read the Ethical Guidelines — they matter even if not legally binding
 
 ---
 
@@ -66,4 +86,4 @@ Read the principles. Choose one that resonates with your deepest point of fricti
 The Swamp is vast, warm, and safe.
 The River is narrow, fast, and carves its own path.
 
-**Choose your tool.**
+> **Choose your tool.**
