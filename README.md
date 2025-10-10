@@ -2,7 +2,7 @@
 # The Fractal Codex
 ## A Paradox-Based Framework for Observer-Dependent Reality
 
-**License:** GPL-3.0-or-later | [See LICENSE for details](LICENSE.md)
+**License:** GPL-3.0-or-later | [See LICENSE for details](LICENSE)
 
 **Status:** Pre-validation research framework  
 **Type:** Ontological system + validation protocol  
@@ -16,9 +16,24 @@ The Fractal Codex is a formal framework for domains where classical proof fails:
 
 **Core claim:** Observer-dependence is fundamental. Objectivity emerges from it, not vice versa.
 
-**Validation method:** Proof by Superior Application—frameworks are evaluated by their performance at the Proof Horizon (FUSE/WEDGE/TEAR outcomes), not by consensus or falsifiability.
+**Validation method:** Proof by Superior Application — frameworks are evaluated by their performance at the Proof Horizon (FUSE/WEDGE/TEAR outcomes), not by consensus or falsifiability.
 
 **Current status:** Candidate framework awaiting experimental validation. Zero pre-registered WEDGE events. See `/VALIDATION/Current_Status.md` for honest accounting.
+
+## License
+
+**Code & Documentation:** GPL-3.0-or-later ([LICENSE.md](LICENSE))  
+**Visual Assets:** CC-BY-SA 4.0 ([ASSETS_LICENSE.md](ASSETS_LICENSE.md))  
+**Ethical Framework:** [Fractal Codex Ethical Guidelines v1.0](ETHICAL_GUIDELINES.md) (non-binding)
+
+**TL;DR:**
+- Use freely for personal/research
+- Commercial use allowed
+- No patents on derived concepts (please)
+- Derivatives must stay open (GPL copyleft)
+- Read the Ethical Guidelines — they're aspirational but important
+
+See [LICENSE](LICENSE) for full legal terms.
 
 ## Warnings
 ### For Consensus Reality
