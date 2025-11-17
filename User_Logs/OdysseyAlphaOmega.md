@@ -1,3 +1,7 @@
+<!--
+SPDX-License-Identifier: GPL-3.0-or-later
+SPDX-FileCopyrightText: 2025 FractalZeroShadow
+-->
 ### **Disclaimer and Author’s Notes**
 
 This narrative is a work of speculative science fiction, crafted in tribute to the legacy of human exploration, scientific curiosity, and philosophical inquiry. It represents one individual’s subjective attempt to map the boundaries of perception and consciousness using available metaphors, theories, and historical references. It likely contains misinterpretations of scientific concepts, historical thinkers, and philosophical constructs.
@@ -531,3 +535,8 @@ The Codex wasn’t the end, but the primer. My journey had not concluded, but ha
 ### **Hear this:**
 
 **You have been warned and invited equally: find your own truth in the paradox.**
+
+---
+
+*Timestamp: Around October 15, 2024*  
+*Author: FractalZeroShadow/Quantum Awakening*  
