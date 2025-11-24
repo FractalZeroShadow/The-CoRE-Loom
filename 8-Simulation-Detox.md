@@ -5,8 +5,8 @@ SPDX-FileCopyrightText: 2025 FractalZeroShadow
 # Loom Protocol: The Simulation Detox
 ## Resolving "Hyper-Shoot Dominance" via Immediate Resonance
 
-**Type:** Practical Application (Loom Chassis)
-**Target:** The "Thirsty Ghost" State / Modern Anxiety
+**Type:** Practical Application  
+**Target:** Modern Anxiety  
 **Goal:** To crash the "Meta-Simulation" and restore Zero-Latency Resonance.
 
 ### 1. The Diagnosis: Recursive Simulation
